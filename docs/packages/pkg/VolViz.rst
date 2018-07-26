@@ -1,0 +1,21 @@
+.. spelling::
+
+    VolViz
+
+.. index::
+  single: graphics ; VolViz
+  single: computer-vision ; VolViz
+
+.. _pkg.VolViz:
+
+VolViz
+======
+
+-  `Official <https://github.com/ithron/VolViz>`__
+-  `Example <https://github.com/ruslo/hunter/blob/master/examples/VolViz/CMakeLists.txt>`__
+-  Added by `Stefan Reinhold <https://github.com/ithron>`__ (`pr-N <https://github.com/ruslo/hunter/pull/N>`__)
+
+.. literalinclude:: /../examples/VolViz/CMakeLists.txt
+  :language: cmake
+  :start-after: # DOCUMENTATION_START {
+  :end-before: # DOCUMENTATION_END }
