@@ -13,11 +13,11 @@ hunter_add_version(
     PACKAGE_NAME
     VolViz
     VERSION
-    0.1.3
+    0.1.4.1
     URL
-    "https://github.com/ithron/VolViz/archive/0.1.3.tar.gz"
+    "https://github.com/ithron/VolViz/archive/0.1.4.1.tar.gz"
     SHA1
-    c692896bb9a9e99fd60baed7de99f6d6da3a3e57
+    03d27652c8257e46eec1e9c0666a0a4a8569611c
 )
 
 hunter_cmake_args(
